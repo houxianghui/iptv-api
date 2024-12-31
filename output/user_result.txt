@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-31 18:33:07,url
+2025-01-01 06:24:25,url
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://59.173.243.210:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -645,10 +645,12 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 浙江少儿,http://183.136.148.214:9901/tsfile/live/1012_1.m3u8$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1526&tk=2aca1ad9a849$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7099&tk=2aca1ad9a849$订阅源
+河北少儿科教,http://60.7.56.33:4000/rtp/239.253.92.174:6004$组播源
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
 海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919$订阅源
 海绵宝宝,http://jiaojirentv.top/2020/dy.php?id=7528160$订阅源
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源
+斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879$订阅源
 猫和老鼠,http://huanqiuzhibo.cn/manifest/huya.php?id=11352879$订阅源
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970$订阅源
@@ -662,4 +664,5 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 新白娘子传奇,http://120.77.28.4:8648/yy.php?id=1354930969$订阅源
 济公游记,http://120.77.28.4:8648/yy.php?id=1355265814$订阅源
 封神榜,http://huanqiuzhibo.cn/manifest/huya.php?id=23749096$订阅源
+上海滩,https://live.metshop.top/yy/1382745184$订阅源
 射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164$订阅源
