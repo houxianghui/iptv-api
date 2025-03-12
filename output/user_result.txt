@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-12 18:36:15,url
+2025-03-13 06:25:53,url
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -162,9 +162,9 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 广东卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226180/index.m3u8$订阅源-IPv6
 广东卫视,http://36.129.204.117:9003//hls/49/index.m3u8$订阅源
 广东卫视,http://61.138.128.226:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8$订阅源
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$订阅源
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$订阅源
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$订阅源
 浙江卫视,http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 浙江卫视,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 浙江卫视,http://61.138.128.226:19901/tsfile/live/1044_1.m3u8$订阅源
@@ -227,6 +227,7 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 东方卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000030202/1.m3u8$订阅源-IPv6
 东方卫视,http://[2409:8087:1a0a:df::404d]:80/wh7f454c46tw2885470530_192792185/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8?icpid=88888888&RTS=1713969714&from=4&hms_devid=1208&online=1713969714&vqe=3$订阅源-IPv6
 东方卫视,http://36.129.204.117:9003//hls/39/index.m3u8$订阅源
+东方卫视,http://tv.20191209.xyz:37377/migu/651632648.m3u8?migutoken=a9a2b71c87ef01a1f546b80d3776d4e2ab5a03525b06b379f6d3ebca3a7a40f732115ab805783c8a8a73e5580900755cdfb3b6d3c2b9308a46141d56b6b629038613c381a9027a60e527e1c8$订阅源
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 东南卫视,http://116.128.242.83:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 东南卫视,http://61.138.128.226:19901/tsfile/live/1014_1.m3u8$订阅源
@@ -372,7 +373,6 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 天津卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000327/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 天津卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226191/index.m3u8$订阅源-IPv6
 天津卫视,http://36.129.204.117:9003//hls/35/index.m3u8$订阅源
-天津卫视,http://182.91.124.60:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 西藏卫视,http://120.76.248.139/live/bfgd/4200000121.m3u8$订阅源
 西藏卫视,http://61.138.128.226:19901/tsfile/live/0111_1.m3u8$订阅源
 西藏卫视,http://61.138.128.226:19901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -396,7 +396,6 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS$订阅源
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40$订阅源
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源
-明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt$订阅源
 明珠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8$订阅源
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$组播源
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源
@@ -408,17 +407,17 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$订阅源
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$订阅源
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2$订阅源
+凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8$订阅源-IPv6
-凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA$订阅源
 凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15$订阅源
+凤凰卫视,http://119.32.12.17:2901/udp/224.1.100.3:11111$订阅源
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源-1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源-1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源-1920x1080
-香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8$订阅源
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$订阅源
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$订阅源
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-1/AKTV.m3u8$订阅源
@@ -475,7 +474,6 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 🪁动画频道,#genre#
 动漫秀场,http://36.129.204.117:9003//hls/67/index.m3u8$订阅源
 动漫秀场,http://nas.hssvm.com:8888/udp/225.1.1.134:5002$订阅源
-动漫秀场,http://php.jdshipin.com:8880/bst.php?id=dmxc8m/8000000$订阅源
 动漫秀场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226197/index.m3u8•IPV6『线路2』$订阅源-IPv6
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8$订阅源-IPv6
 动漫秀场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226197/index.m3u8$订阅源-IPv6
@@ -505,8 +503,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8$订阅源-IPv6
 炫动卡通,http://nas.hssvm.com:8888/udp/225.1.1.62:5002$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6980&tk=e640d0a1bf70$订阅源
-浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
-河北少儿科教,http://60.7.56.33:4000/rtp/239.253.92.174:6004$组播源
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源
 
 🏛经典剧场,#genre#
