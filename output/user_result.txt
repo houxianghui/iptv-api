@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-25 18:35:03,url
+2025-03-26 06:24:20,url
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -418,7 +418,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源-1920
 纬来体育,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-1/AKTV.m3u8$订阅源
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$订阅源
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
-Viutv,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs$订阅源
 三立台湾,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlsanlitaiwanl00eqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv$订阅源
 三立台湾,http://ali.hlspull.yximgs.com/live/6c54ea45c1df30a5073de2d9825e1fa9.flv$订阅源
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源
@@ -498,9 +497,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 河北少儿科教,http://60.7.56.33:4000/rtp/239.253.92.174:6004$组播源
-七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
-海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919$订阅源
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源
-蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970$订阅源
 
 🏛经典剧场,#genre#
